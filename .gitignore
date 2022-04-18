@@ -112,3 +112,6 @@ config.js
 # compliled by webpack
 dist
 build
+
+# Local Netlify folder
+.netlify
